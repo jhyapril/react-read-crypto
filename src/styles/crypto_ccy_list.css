@@ -1,0 +1,33 @@
+.ccy-list-table {
+  width: 80% !important;
+  margin: 0 10% 0 10%;
+}
+
+.ccy-list-change-header{
+  width: 9rem;
+}
+
+.ccy-list-cryptoName {
+  color: darkcyan;
+}
+
+.ccy-list-cryptoPrice {
+  margin-left: auto;
+}
+
+.ccy-list-cryptoChangePostive, .ccy-list-cryptoChangeNegative {
+  padding: 5px;
+  margin-left: 30px;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 3px;
+}
+.ccy-list-cryptoChangePostive {
+  background-color: lightgreen;
+  color: darkslategrey;
+}
+.ccy-list-cryptoChangeNegative{
+  background-color: #E40C17;
+  color: ghostwhite;
+}
+

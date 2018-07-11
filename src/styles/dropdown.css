@@ -1,0 +1,19 @@
+.dd-group{
+  height: 2rem;
+  margin: 1rem 10% 1rem 10%;
+}
+
+.dd-select{
+  width: 10rem;
+  height: 2rem;
+  font-size: 13px;
+  margin: 1px;
+  opacity: 0.6;
+  transition: all .2s ease-in-out;
+}
+
+.dd-select:hover{
+  opacity: 1;
+  background-color: lightcyan;
+  transition: all .2s ease-in-out;
+}
